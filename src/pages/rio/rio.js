@@ -4,3 +4,5 @@ let qwi = 22
 const wq =32
 
 const qqw = 949
+
+const iei = 32
